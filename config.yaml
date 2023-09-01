@@ -115,8 +115,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Maheen Waris"
-    # content: "Being a tech enthusiast, exploring the latest advancements in the digital world."
-    content: "Being a tech enthusiast, exploring the latest advancements in the digital world. I'm a skilled frontend developer who transforms ideas into stunning digital realities. With a passion for crafting seamless user experiences, I'm here to bring your web projects to life!"
+    subtitle: "Being a tech enthusiast, exploring the latest advancements in the digital world."
+    content: "I'm a skilled frontend developer who transforms ideas into stunning digital realities. With a passion for crafting seamless user experiences, I'm here to bring your web projects to life!"
     image: /Home/Header.png
     bottomImage:
       enable: true
