@@ -1,2 +1,2 @@
-# Website
- My Personal Hugo site
+# My-Site
+ Personal site by hugo
