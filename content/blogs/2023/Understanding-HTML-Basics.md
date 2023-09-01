@@ -5,7 +5,7 @@ description: ""
 url: "/blogs/Understanding-HTML-Basics/"
 date: "2023-09-01"
 tags: ["Development", "HTML", "Coding"]
-draft: "true"
+draft: "false"
 toc: "true"
 ---
 
@@ -19,28 +19,28 @@ HTML is a markup language used to structure content on the web. It consists of a
 
 Here are some fundamental HTML tags you need to know to create a basic web page:
 
-- 1. `html`: The root element that wraps the entire HTML documents.
-- 2. `head`: Contains meta-information about the web page, such as the title and links to external resources.
-- 3. `title`: Sets the title of the web page, displayed in the browser's title bar or tab.
-- 4. `meta`: Provides metadata about the HTML document, like character encoding and keywords.
-- 5. `body`: Contains the visible content of the web page, such as text, images, and other elements.
-- 6. `h1`, `h2`, `h3`, `h4`, `h5` and `h6`: Headings of different levels, with `h1` being the highest and most important.
-- 7. `p`: Represents paragraphs of text.
-- 8. `a`: Creates hyperlinks to other web pages or resources.
-- 9. `img`: Embeds (add) images in the web page.
-- 10. `ul`: Defines an unordered (bulleted) list.
-- 11. `ol`: Defines an ordered (numbered) list.
-- 12. `li`: Represents list items within `ul` or `ol` lists.
-- 13. `div`: A generic container for grouping and styling content.
-- 14. `span`: A inline container for styling a specific portion of text.
-- 15. `br`: Inserts a line break (line break tags are self-closing, so no closing tag is needed).
-
+- `html`: The root element that wraps the entire HTML documents.
+- `head`: Contains meta-information about the web page, such as the title and links to external resources.
+- `title`: Sets the title of the web page, displayed in the browser's title bar or tab.
+- `meta`: Provides metadata about the HTML document, like character encoding and keywords.
+- `body`: Contains the visible content of the web page, such as text, images, and other elements.
+- `h1`, `h2`, `h3`, `h4`, `h5` and `h6`: Headings of different levels, with `h1` being the highest and most important.
+- `p`: Represents paragraphs of text.
+- `a`: Creates hyperlinks to other web pages or resources.
+- `img`: Embeds (add) images in the web page.
+- `ul`: Defines an unordered (bulleted) list.
+- `ol`: Defines an ordered (numbered) list.
+- `li`: Represents list items within `ul` or `ol` lists.
+- `div`: A generic container for grouping and styling content.
+- `span`: A inline container for styling a specific portion of text.
+- `br`: Inserts a line break (line break tags are self-closing, so no closing tag is needed).
 ## Creating Your First Web Page
+
 
 To create your first web page, follow these steps:
 
-- 1. Open a plain text editor (like Notepad on Windows or TextEdit on macOS).
-- 2. Type the following HTML code:
+1. Open a plain text editor (like Notepad on Windows or TextEdit on macOS).
+2. Type the following HTML code:
 
 ```html
 <html>
@@ -54,8 +54,8 @@ To create your first web page, follow these steps:
 </html>
 ```
 
-- 3. Save the file with a ".html" extension (e.g: "index.html").
-- 4. Open the saved HTML file in a web browser.
+3. Save the file with a ".html" extension (e.g: "index.html").
+4. Open the saved HTML file in a web browser.
 
 Congratulations! You've just created and displayed your first web page using HTML.
 
