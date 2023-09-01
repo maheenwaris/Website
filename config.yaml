@@ -50,9 +50,10 @@ Menus:
 
 params:
   title: "Maheen Waris"
+  
   # description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/Home/Logo.png"
+  # favicon: "/Home/Logo.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -115,8 +116,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Maheen Waris"
-    subtitle: "Being a tech enthusiast, exploring the latest advancements in the digital world."
-    content: "I'm a skilled frontend developer who transforms ideas into stunning digital realities. With a passion for crafting seamless user experiences, I'm here to bring your web projects to life!"
+    # content: "Being a tech enthusiast, exploring the latest advancements in the digital world."
+    content: "Being a tech enthusiast, exploring the latest advancements in the digital world. I'm a skilled frontend developer who transforms ideas into stunning digital realities. With a passion for crafting seamless user experiences, I'm here to bring your web projects to life!"
     image: /Home/Header.png
     bottomImage:
       enable: true
@@ -141,16 +142,16 @@ params:
     title: "About Me"
     image: "/Home/about.png"
     content: |-
-      I am a developer with passion for web development. I have a background in computer science and Information Technology, and also I have a strong interest in the intersection  of technology and Computer. I am currently working as a Website developer C-Soft. I am currently working on projects that will be used in Education, Cosmetics & Game Development Websites.
+      I am a seasoned professional in frontend web development, boasting a wealth of experience in crafting visually appealing and user-friendly websites. My passion for technology extends beyond the frontend, as I am actively engaged in expanding my skill set in the realms of cybersecurity and Linux. This dual focus not only allows me to create captivating web interfaces but also ensures the security and stability of the digital environments I work on.
 
-    skills:
-      enable: true
-      title: "My toolkit includes:"
-      items:
-        - "🖌️ HTML"
-        - "🎨 CSS"
-        - "✨ JavaScript"
-        - "🅱 Bootstrap"
+    # skills:
+    #   enable: true
+    #   title: "My toolkit includes:"
+    #   items:
+    #     - "🖌️ HTML"
+    #     - "🎨 CSS"
+    #     - "✨ JavaScript"
+    #     - "🅱 Bootstrap"
 
   # Experience
   experience:
