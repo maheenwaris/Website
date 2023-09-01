@@ -50,10 +50,9 @@ Menus:
 
 params:
   title: "Maheen Waris"
-  
   # description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  # favicon: "/Home/Logo.png"
+  favicon: "/Home/Logo.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -140,7 +139,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/Home/about.png"
+    image: "/Home/Header.png"
     content: |-
       I am a seasoned professional in frontend web development, boasting a wealth of experience in crafting visually appealing and user-friendly websites. My passion for technology extends beyond the frontend, as I am actively engaged in expanding my skill set in the realms of cybersecurity and Linux. This dual focus not only allows me to create captivating web interfaces but also ensures the security and stability of the digital environments I work on.
 
