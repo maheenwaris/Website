@@ -3,7 +3,7 @@ title: "Getting Started with Web Development: Understanding HTML Basics"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/Understanding-HTML-Basics/"
-date: "2023-09-01"
+date: "2023-09-02"
 tags: ["Development", "HTML", "Coding"]
 draft: "false"
 toc: "true"
@@ -13,7 +13,7 @@ Welcome to the world of web development! If you're new to the field, understandi
 
 ## What is HTML?
 
-HTML is a markup language used to structure content on the web. It consists of a series of elements, or "tags," that define the structure and content of a web page. These tags are enclosed in angle brackets (< >) and come in pairs: an opening tag and a closing tag. Example of closing tag is <html></html> and Example of opening tag is <img>.
+HTML is a markup language used to structure content on the web. It consists of a series of elements, or "tags," that define the structure and content of a web page. These tags are enclosed in angle brackets (< >) and come in pairs: an opening tag and a closing tag. Example of closing tag is `<html></html>` and Example of opening tag is `<img>`.
 
 ## Main HTML Tags for Building a Web Page
 
@@ -39,7 +39,7 @@ Here are some fundamental HTML tags you need to know to create a basic web page:
 
 To create your first web page, follow these steps;
 
-1. Open a plain text editor (like Notepad on Windows or TextEdit on macOS).
+1. Open a plain text editor (like Notepad on Windows or TextEdit on macOS or VS code/ Sublime).
 2. Type the following HTML code:
 
 ```html
