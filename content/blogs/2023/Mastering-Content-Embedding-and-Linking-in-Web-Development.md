@@ -23,7 +23,7 @@ The <img> tag is for image embedding. Simply provide the image's source URL usin
 
 In the Above example I use:
 
-- Image tag <img>: It's an opening tag as u know.
+- Image tag `<img>`: It's an opening tag as u know.
 - Two Attribute : "src" to share the location of image & "alt" for text if the image will not display
 - The "height" and "width" is to set the size of image.
 - Make sure to save the image in the folder, where your html file exist
@@ -35,8 +35,6 @@ For embedding videos, the `<video>` tag is your tool. Define the video source vi
 ```html
 <video controls>
   <source src="video.mp4" type="video/mp4" />
-
-  Your browser does not support the video tag.
 </video>
 ```
 
@@ -69,7 +67,7 @@ In the above exmple, We are using :
 
 ### 2.1 Creating Basic Page Links:
 
-Hyperlinks are the building blocks of web navigation. Use the <a> (anchor) tag to create links between pages, specifying the target page's URL within the "href" attribute.
+Hyperlinks are the building blocks of web navigation. Use the <a> (anchor)tag to create links between pages, specifying the target page's URL within the "href" attribute.
 
 ```html
 <a href="page2.html">Go to Page 2</a>
