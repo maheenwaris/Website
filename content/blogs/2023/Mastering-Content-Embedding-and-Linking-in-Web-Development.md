@@ -3,7 +3,7 @@ title: "Mastering Content Embedding and Linking in Web Development"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/Mastering-Content-Embedding-and-Linking-in-Web-Development/"
-date: "2023-09-04"
+date: "2023-09-01"
 tags: ["Development", "HTML", "Coding", "Attach Link", "Embeded Image"]
 draft: "False"
 toc: "true"
