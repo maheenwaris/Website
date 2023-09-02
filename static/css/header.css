@@ -1,9 +1,6 @@
 header {
     z-index: 10;
-    /* position: relative; */
-    position: sticky !important;
-    display: block;
-    width: 100%;
+    position: relative;
 }
 
 header .navbar .navbar-nav a {
