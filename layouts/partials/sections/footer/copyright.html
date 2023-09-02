@@ -8,8 +8,9 @@
                 </a>
             </div> -->
             <!-- &copy; {{ now.Format "2006"}} {{ .Site.Params.copyright }} {{ .Site.Params.terms.copyright | default "All Rights Reserved" }} -->
-            <span>All Rights Reserved</span>
-            &copy; {{ now.Format "2006"}} {{ .Site.Params.copyright }} {{ .Site.Params.terms.copyright | default "All Rights Reserved" }}
+            <!-- <span>All Rights Reserved</span>
+            &copy; {{ now.Format "2006"}} {{ .Site.Params.copyright }} {{ .Site.Params.terms.copyright | default "All Rights Reserved" }} -->
+            &copy; {{ .Site.Params.terms.copyright | default "All Rights Reserved" }} {{ now.Format "2006"}} {{ .Site.Params.copyright }} 
         </div>
     </div>
 </div>
