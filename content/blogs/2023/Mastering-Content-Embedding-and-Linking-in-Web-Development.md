@@ -3,7 +3,7 @@ title: "Mastering Content Embedding and Linking in Web Development"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/Mastering-Content-Embedding-and-Linking-in-Web-Development/"
-date: "2023-09-02"
+date: "2023-09-04"
 tags: ["Development", "HTML", "Coding", "Attach Link", "Embeded Image"]
 draft: "False"
 toc: "true"
@@ -63,6 +63,8 @@ In the above exmple, We are using :
 - An attribute: "src" to get the source link
 - Some inline style like "width" , "height" to set the height and width of video
 
+<hr>
+
 ## 2. Crafting Effective HTML Page Links:
 
 ### 2.1 Creating Basic Page Links:
@@ -87,6 +89,8 @@ For internal links, use the "id" attribute to mark specific sections within a pa
 
 In the above Example code, We are trying to link an internal section. so the attribute "id" is use to link a section.
 
+<hr>
+
 ## 3. Best Practices and Security:
 
 1. Accessibility: Always provide descriptive alt text for images and ensure that your content is accessible to all users.
@@ -95,7 +99,9 @@ In the above Example code, We are trying to link an internal section. so the att
 4. Consistency: Maintain a consistent design and layout throughout your website for a polished look.
 5. External Content: Be cautious when embedding content from external sources to avoid security vulnerabilities.
 
-## 4. Conclusion:
+<hr>
+
+### 4. Conclusion:
 
 Embedding images, videos, and other media while skillfully linking HTML pages are fundamental skills for any web developer. By understanding the techniques outlined in this guide, you can enhance the visual appeal and interactivity of your websites, leading to a more engaging user experience. Remember to stay updated with the latest trends and best practices to keep your web development skills sharp and your projects impressive.
 

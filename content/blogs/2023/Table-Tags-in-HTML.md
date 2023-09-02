@@ -3,7 +3,7 @@ title: "Understanding Table Tags in HTML: Exploring colspan and rowspan Attribut
 author: "Maheen Waris"
 description: ""
 url: "/blogs/Table-Tags-in-HTML/"
-date: "2023-09-01"
+date: "2023-09-03"
 tags: ["Development", "HTML", "Coding", "Table"]
 draft: "False"
 toc: "true"
@@ -32,6 +32,8 @@ Here's an example of a basic HTML table structure:
 
 - The "Border" attribute is to get an outline around the table that looks like a border.
 
+<hr>
+
 ## Introducing colspan: Merging Columns:
 
 The colspan attribute allows you to merge two or more adjacent columns into a single, larger column. This is useful when you want to create header cells that span multiple columns or when you need to emphasize a section of your table.
@@ -53,6 +55,8 @@ Let's see how to use "colspan":
 In this example, the header cell "Monthly Report" spans across two columns using colspan="2".
 
 - The "Border" attribute is to get an outline around the table that looks like a border.
+
+<hr>
 
 ## Understanding rowspan: Merging Rows
 
@@ -82,6 +86,8 @@ Let's see how to use "rowspan":
 
 In this example, the cell "Product A" spans across two rows using rowspan="2".
 
+<hr>
+
 ## Combining colspan and rowspan
 
 You can also combine both "colspan" and "rowspan" attributes to create intricate table layouts. This comes in handy when you need to create cells that span both rows and columns.
@@ -106,7 +112,9 @@ You can also combine both "colspan" and "rowspan" attributes to create intricate
 
 In this example, the header cell "Product" spans two rows and the header cell "Quarterly Sales" spans two columns.
 
-## Conclusion:
+<hr>
+
+### Conclusion:
 
 Understanding the `<table>` tag and its attributes like "colspan" and "rowspan" can greatly enhance your ability to present data effectively on your webpages. By using these attributes, you can create complex table structures that cater to your specific needs. So go ahead and experiment with merging cells both vertically and horizontally to design tables that convey your information clearly and intuitively.
 
