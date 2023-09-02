@@ -11,7 +11,7 @@ toc: "true"
 
 In the ever-evolving world of web development, HTML (Hypertext Markup Language) stands as the foundational building block that underpins every website we encounter on the internet. It's the glue that holds together the visual and functional elements of web pages, allowing developers to create stunning and interactive online experiences. In this article, we'll delve into the essential elements of HTML, uncovering their power and versatility in modern web development.
 
-# The Fundamental Structure: HTML Skeleton
+## The Fundamental Structure: HTML Skeleton
 
 Every HTML document begins with a skeleton, defining its basic structure. The following code snippet illustrates this structure
 
@@ -101,7 +101,7 @@ HTML5 introduced semantic elements that describe the meaning of the content, mak
 
 - `header`, `nav`, `article`: Semantic elements that provide meaning to the structure and content of a web page.
 
-### Conclusion:
+## Conclusion:
 
 HTML is a versatile language, offering an array of elements that empower developers to create rich, interactive, and accessible web experiences. Understanding these essential elements is the cornerstone of web development mastery. As you embark on your journey to become a proficient web developer, remember that HTML is just the beginning. To unlock the full potential of web development, you'll need to complement your HTML skills with CSS for styling and JavaScript for interactivity. By mastering these essential elements, you'll be well on your way to creating stunning websites and web applications that captivate users worldwide.
 
