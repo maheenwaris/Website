@@ -1,6 +1,7 @@
 header {
     z-index: 10;
-    position: relative;
+    position:sticky;
+    width: 100%;
 }
 
 header .navbar .navbar-nav a {
