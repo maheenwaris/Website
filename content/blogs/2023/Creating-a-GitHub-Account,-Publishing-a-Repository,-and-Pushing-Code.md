@@ -61,9 +61,43 @@ To add your code to the repository, you first need to copy it to your computer. 
 
 ### 2. Open Terminal (Command Prompt):
 
+On your computer, open the terminal (on macOS) or command prompt (on Windows).
+
+### 3. Navigate to a Folder:
+
+Use the "cd" command to navigate to the folder where you want to store your code locally.
+
+### 4. Clone the Repository:
+
+In the terminal or command prompt, type `git clone` followed by the web address you copied. Press Enter. This will download the repository to your computer.
+
+```html
+git clone https://github.com/your-username/your-repository.git
+```
+
+### 5. Add Your Code:
+
+Now, copy your code into the cloned repository folder.
+
+### 6. Push Your Code:
+
+- In the terminal or command prompt, navigate to the repository folder using the `cd` command.
+- Type the following commands to add and commit your code:
+
+```html
+git add . git commit -m "Add my first code"
+```
+
+- Finally, push your code to GitHub with the following command:
+
+```html
+git push origin main
+```
+
+Congratulations! Your code is now on GitHub.
+
 <hr>
 
-## On your computer, open the terminal (on macOS) or command prompt (on Windows).
-
+Remember, this guide covers the basic steps to get you started with GitHub. There's a lot more you can explore, like collaborating with others, creating branches, and managing issues. GitHub has a helpful guides section (https://guides.github.com/) that can provide more in-depth information as you continue your coding journey. Happy coding!
 
 ---
