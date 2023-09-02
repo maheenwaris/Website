@@ -1,6 +1,11 @@
 header {
     z-index: 10;
-    position: relative;
+    position: fixed;
+    width: 100%;
+}
+
+.container{ 
+    margin-top: 60px;
 }
 
 header .navbar .navbar-nav a {
@@ -36,6 +41,11 @@ header .nav-link{
     opacity: 0.95;
     margin-left: 7% !important;
 } 
+@media screen AND (max-width:600px){
+    .navbar-brand{
+        margin-left: 0% !important;
+    }
+}
 .navbar .nav-link:hover {
     color: var(--primary-color) !important;
 }
