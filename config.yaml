@@ -249,8 +249,7 @@ params:
   terms:
     read: "Read"
     toc: "Table Of Contents"
-    # copyright: "All rights reserved"
-    copyright: "Maheen waris , All rights reserved"
+    copyright: "All rights reserved"
     pageNotFound: "Page not found"
     emailText: "Check out this site"
 
