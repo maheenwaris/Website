@@ -106,7 +106,7 @@ You can also combine both "colspan" and "rowspan" attributes to create intricate
 
 In this example, the header cell "Product" spans two rows and the header cell "Quarterly Sales" spans two columns.
 
-## Conclusion:
+### Conclusion:
 
 Understanding the `<table>` tag and its attributes like "colspan" and "rowspan" can greatly enhance your ability to present data effectively on your webpages. By using these attributes, you can create complex table structures that cater to your specific needs. So go ahead and experiment with merging cells both vertically and horizontally to design tables that convey your information clearly and intuitively.
 
