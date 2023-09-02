@@ -39,7 +39,7 @@ header .nav-link{
 .navbar-brand {
     color: var(--primary-color) !important;
     opacity: 0.95;
-    margin-left: 7% !important;
+    margin-left: 8% !important;
 } 
 @media screen AND (max-width:600px){
     .navbar-brand{
