@@ -15,6 +15,8 @@ Welcome to the world of web development! If you're new to the field, understandi
 
 HTML is a markup language used to structure content on the web. It consists of a series of elements, or "tags," that define the structure and content of a web page. These tags are enclosed in angle brackets (< >) and come in pairs: an opening tag and a closing tag. Example of closing tag is `<html></html>` and Example of opening tag is `<img>`.
 
+<hr>
+
 ## Main HTML Tags for Building a Web Page
 
 Here are some fundamental HTML tags you need to know to create a basic web page:
@@ -34,6 +36,8 @@ Here are some fundamental HTML tags you need to know to create a basic web page:
 - `<div>`: A generic container for grouping and styling content.
 - `<span>`: A inline container for styling a specific portion of text.
 - `<br>`: Inserts a line break (line break tags are self-closing, so no closing tag is needed).
+
+<hr>
 
 ## Creating Your First Web Page
 
@@ -59,7 +63,9 @@ To create your first web page, follow these steps;
 
 Congratulations! You've just created and displayed your first web page using HTML.
 
-## Conclusion
+<hr>
+
+### Conclusion
 
 Understanding HTML and its basic tags is the first step towards becoming a web developer. As you delve deeper into web development, you'll discover more HTML elements and how to combine them with CSS (Cascading Style Sheets) and JavaScript to create dynamic and engaging websites.
 Stay curious and keep exploring the fascinating world of web development!

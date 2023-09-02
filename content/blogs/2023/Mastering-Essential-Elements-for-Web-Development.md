@@ -32,6 +32,8 @@ Every HTML document begins with a skeleton, defining its basic structure. The fo
 - `head`: Contains meta-information about the document, such as the title displayed in the browser's tab or window.
 - `body`: The container for the actual content of the web page.
 
+<hr>
+
 ## Structuring Content: Headings, Paragraphs, and Lists
 
 HTML provides various elements for structuring content effectively. These include headings, paragraphs, and lists.
@@ -49,6 +51,8 @@ HTML provides various elements for structuring content effectively. These includ
 - `p`: Defines a paragraph of text.
 - `ul` and `ol`: Create unordered and ordered lists, respectively, while `li` represents list items.
 
+<hr>
+
 ## Linking and Navigation: Anchors
 
 Hyperlinks are the lifeblood of the web, connecting web pages and enabling users to navigate through the internet seamlessly.
@@ -62,6 +66,8 @@ Hyperlinks are the lifeblood of the web, connecting web pages and enabling users
 
 - `img`: Embeds an image with the src attribute pointing to the image file and alt for alternative text.
 - `video`: Embeds a video with the src attribute pointing to the video file, and controls adds playback controls.
+
+<hr>
 
 ## Forms and User Input: Collecting Data
 
@@ -77,6 +83,8 @@ Web forms are crucial for gathering user data, from simple search bars to comple
 
 - `form`: Defines a form to collect user input, with action specifying where the data will be sent and method indicating how it will be sent.
 - `input`: Creates input fields for various data types.
+
+<hr>
 
 ## Semantic Elements: Enhancing Accessibility and SEO
 
@@ -101,7 +109,9 @@ HTML5 introduced semantic elements that describe the meaning of the content, mak
 
 - `header`, `nav`, `article`: Semantic elements that provide meaning to the structure and content of a web page.
 
-## Conclusion:
+<hr>
+
+### Conclusion:
 
 HTML is a versatile language, offering an array of elements that empower developers to create rich, interactive, and accessible web experiences. Understanding these essential elements is the cornerstone of web development mastery. As you embark on your journey to become a proficient web developer, remember that HTML is just the beginning. To unlock the full potential of web development, you'll need to complement your HTML skills with CSS for styling and JavaScript for interactivity. By mastering these essential elements, you'll be well on your way to creating stunning websites and web applications that captivate users worldwide.
 
