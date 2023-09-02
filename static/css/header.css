@@ -1,6 +1,9 @@
 header {
     z-index: 10;
-    position: relative;
+    /* position: relative; */
+    position: sticky !important;
+    display: block;
+    width: 100%;
 }
 
 header .navbar .navbar-nav a {
@@ -34,6 +37,7 @@ header .nav-link{
 .navbar-brand {
     color: var(--primary-color) !important;
     opacity: 0.95;
+    margin-left: 7% !important;
 } 
 .navbar .nav-link:hover {
     color: var(--primary-color) !important;
