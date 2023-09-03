@@ -1,8 +1,8 @@
 ---
-title: "Mastering Essential Elements for Web Development"
+title: "A Beginner's Guide to HTML and Creating Your First Web Page"
 author: "Maheen Waris"
 description: ""
-url: "/blogs/Essential-Elements-for-Web-Development/"
+url: "/blogs/A-Beginner's-Guide-to-HTML/"
 date: "2023-09-01"
 tags: ["Development", "HTML", "Coding"]
 draft: "False"

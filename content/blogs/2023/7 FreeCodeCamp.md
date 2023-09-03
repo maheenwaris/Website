@@ -3,7 +3,7 @@ title: "Getting Started with FreeCodeCamp: Your Path to Coding Mastery"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/FreeCodeCamp/"
-date: "2023-09-03"
+date: "2023-09-07"
 tags: ["Development", "HTML", "Coding", "FreeCodeCamp", "Online platform"]
 draft: "false"
 toc: "true"

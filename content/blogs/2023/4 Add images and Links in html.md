@@ -1,8 +1,8 @@
 ---
-title: "Mastering Content Embedding and Linking in Web Development"
+title: "Enhancing Web Development: Embedding Media and Crafting Effective HTML Links"
 author: "Maheen Waris"
 description: ""
-url: "/blogs/Content-Embedding-and-Linking-in-Web-Development/"
+url: "/blogs/Embedding-Media-and-Linking-in-Web-Development/"
 date: "2023-09-04"
 tags: ["Development", "HTML", "Coding", "Attach Link", "Embeded Image"]
 draft: "false"
