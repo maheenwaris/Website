@@ -5,7 +5,7 @@ description: ""
 url: "/blogs/Table-Tags-in-HTML/"
 date: "2023-09-03"
 tags: ["Development", "HTML", "Coding", "Table"]
-draft: "False"
+draft: "false"
 toc: "true"
 ---
 

@@ -2,7 +2,7 @@
 title: "Mastering Essential Elements for Web Development"
 author: "Maheen Waris"
 description: ""
-url: "/blogs/Mastering-Essential-Elements-for-Web-Development/"
+url: "/blogs/Essential-Elements-for-Web-Development/"
 date: "2023-09-01"
 tags: ["Development", "HTML", "Coding"]
 draft: "False"

@@ -2,7 +2,7 @@
 title: "Creating a GitHub Account, Publishing a Repository, and Pushing Code"
 author: "Maheen Waris"
 description: ""
-url: "/blogs/Creating-a-GitHub-Account,-Publishing-a-Repository,-and-Pushing-Code/"
+url: "/blogs/GitHub-Account/"
 date: "2023-09-05"
 tags: ["Development", "HTML", "Coding", "Github"]
 draft: "false"
