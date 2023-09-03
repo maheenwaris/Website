@@ -1,10 +1,10 @@
 ---
-title: "Getting Started with Web Development: Understanding HTML Basics"
+title: "Web Development: Understanding HTML (Hyper Text Markup Language) Basics"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/Understanding-HTML-Basics/"
 date: "2023-09-02"
-tags: ["Development", "HTML", "Coding"]
+tags: ["Development", "HTML", "Coding" , "Guide"]
 draft: "false"
 toc: "true"
 ---

@@ -1,8 +1,8 @@
 ---
-title: "A Beginner's Guide to HTML and Creating Your First Web Page"
+title: "A Beginner's Guide to HTML(Hyper Text Markup Language) and Creating Your First Web Page"
 author: "Maheen Waris"
 description: ""
-url: "/blogs/A-Beginner's-Guide-to-HTML/"
+url: "/blogs/Beginner's-Guide-to-HTML/"
 date: "2023-09-01"
 tags: ["Development", "HTML", "Coding"]
 draft: "False"
