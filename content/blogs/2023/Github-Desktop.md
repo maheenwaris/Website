@@ -3,7 +3,7 @@ title: "Getting Started with GitHub Desktop: Simplifying Your GitHub Experience"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/Github-Desktop/"
-date: "2023-09-01"
+date: "2023-09-07"
 tags: [Development", "HTML", "Coding", "Github desktop"]
 draft: "false"
 toc: "true"

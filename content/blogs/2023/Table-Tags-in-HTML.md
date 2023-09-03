@@ -3,7 +3,7 @@ title: "Understanding Table Tags in HTML: Exploring colspan and rowspan Attribut
 author: "Maheen Waris"
 description: ""
 url: "/blogs/Table-Tags-in-HTML/"
-date: "2023-09-01"
+date: "2023-09-03"
 tags: ["Development", "HTML", "Coding", "Table"]
 draft: "False"
 toc: "true"
