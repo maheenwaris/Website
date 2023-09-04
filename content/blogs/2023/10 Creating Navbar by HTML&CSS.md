@@ -16,16 +16,20 @@ If you're just starting your journey into web development, you might have heard 
 First, let's understand the HTML part of creating a navbar.
 
 ### 1. `<nav>` Element:
-   This is the container for your navbar. It helps identify the navigation section of your webpage.
+
+This is the container for your navbar. It helps identify the navigation section of your webpage.
 
 ### 2. `<ul>` Element:
-   Inside the `<nav>`, you'll have an unordered list. `<ul>` stands for an unordered list, and it's used to create the menu items in your navbar.
+
+Inside the `<nav>`, you'll have an unordered list. `<ul>` stands for an unordered list, and it's used to create the menu items in your navbar.
 
 ### 3. `<li>` Element:
-   Each item in your navbar is created using the list item element, `<li>`. You'll have one `<li>` for each menu option.
+
+Each item in your navbar is created using the list item element, `<li>`. You'll have one `<li>` for each menu option.
 
 ### 4. `<a>` Element:
-   To make these list items clickable links, you'll use the anchor element, `<a>`. This is where you'll specify the text that appears in the navbar and the destination URL.
+
+To make these list items clickable links, you'll use the anchor element, `<a>`. This is where you'll specify the text that appears in the navbar and the destination URL.
 
 #### Example:
 
@@ -48,20 +52,25 @@ Here's a simple example of what your HTML structure might look like:
 
 Now that we have our basic structure in place, let's make our navbar look good. CSS (Cascading Style Sheets) is the language for styling web pages. Here are some CSS properties you'll use:
 
-### 1. background-color:  
-   Sets the background color of your navbar.
+### 1. background-color:
+
+Sets the background color of your navbar.
 
 ### 2. color:
-   Sets the text color.
+
+Sets the text color.
 
 ### 3. padding:
-   Adds space around the content of your navbar.
+
+Adds space around the content of your navbar.
 
 ### 4. text-decoration:
-   Removes the default underline from links.
+
+Removes the default underline from links.
 
 ### 5. list-style-type:
-   Removes the bullet points from the list items.
+
+Removes the bullet points from the list items.
 
 #### Example:
 
