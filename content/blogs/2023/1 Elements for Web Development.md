@@ -9,7 +9,7 @@ draft: "False"
 toc: "true"
 ---
 
-In the ever-evolving world of web development, HTML (Hypertext Markup Language) stands as the foundational building block that underpins every website we encounter on the internet. It's the glue that holds together the visual and functional elements of web pages, allowing developers to create stunning and interactive online experiences. In this article, we'll delve into the essential elements of HTML, uncovering their power and versatility in modern web development.
+In the world of web development, HTML (Hypertext Markup Language) stands as the foundational building block that underpins every website we encounter on the internet. It's the glue that holds together the visual and functional elements of web pages, allowing developers to create stunning and interactive online experiences.
 
 ## The Fundamental Structure: HTML Skeleton
 
@@ -47,15 +47,15 @@ HTML provides various elements for structuring content effectively. These includ
 </ul>
 ```
 
-- `h1` to `h6`: Used for headings, with `h1` being the highest level and `h6` the lowest.
-- `p`: Defines a paragraph of text.
-- `ul` and `ol`: Create unordered and ordered lists, respectively, while `li` represents list items.
+- `<h1>` to `<h6>`: Used for headings, with `<h1>` being the highest level and `<h6>` the lowest.
+- `<p>`: Defines a paragraph of text.
+- `<ul>` and `<ol>`: Create unordered and ordered lists, respectively, while `<li>` represents list items.
 
 <hr>
 
 ## Linking and Navigation: Anchors
 
-Hyperlinks are the lifeblood of the web, connecting web pages and enabling users to navigate through the internet seamlessly.
+Hyperlinks are , connecting web pages and enabling users to navigate through the internet seamlessly.
 
 ```html
 <img src="image.jpg" alt="A beautiful image" />
@@ -71,7 +71,7 @@ Hyperlinks are the lifeblood of the web, connecting web pages and enabling users
 
 ## Forms and User Input: Collecting Data
 
-Web forms are crucial for gathering user data, from simple search bars to complex surveys.
+Web forms are for gathering user data, from simple search bars to complex surveys.
 
 ```html
 <form action="submit.php" method="post">
