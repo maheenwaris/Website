@@ -2,7 +2,7 @@
 title: "Introduction to the First 10 CSS Elements"
 author: "Maheen Waris"
 description: ""
-url: "/blogs/css/Introduction-to-the-First-10-CSS-Elements"
+url: "/blogs/Introduction-to-the-First-10-CSS-Elements"
 date: "2023-09-11"
 tags: [Development", "CSS", "Styling", "Coding"]
 draft: "false"
