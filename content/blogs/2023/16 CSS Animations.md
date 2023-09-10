@@ -9,8 +9,6 @@ draft: "false"
 toc: "true"
 ---
 
-# A Guide to Creating Animations in CSS
-
 Animations are an essential element of modern web design, offering dynamic user experiences. While JavaScript and other scripting languages can create complex animations, CSS (Cascading Style Sheets) provides a straightforward and efficient way to add motion and interactivity to your web pages. In this article, we will explore the basics of CSS animations, including keyframes, properties, and practical examples.
 
 ## Understanding CSS Animations
@@ -141,6 +139,8 @@ In this example, the `loader` element will create a spinning animation using key
 ```
 
 In this example, the `bouncing-ball` element will move up and down in a bouncing motion, creating a playful animation.
+
+<hr>
 
 ## Conclusion
 

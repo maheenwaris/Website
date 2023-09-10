@@ -55,9 +55,9 @@ h2 ~ p {
 }
 ```
 
-<hr>
-
 These combinators allow you to create more specific and targeted CSS rules to style different elements based on their relationships within the HTML document.
+
+<hr>
 
 ## 2. Attribute Selectors
 
