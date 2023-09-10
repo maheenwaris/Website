@@ -86,6 +86,6 @@ A descendant selector allows you to target elements that are descendants of a sp
 
 ### Conclusion
 
-These first 10 CSS elements provide a solid foundation for styling web pages. Understanding selectors, properties, values, declarations, rules, and the different types of selectors (class, ID, universal, and descendant) is essential for creating visually appealing and responsive web designs. As you delve deeper into web development, you'll discover additional CSS elements and techniques to enhance your styling skills.
+These first 10 CSS elements provide a solid foundation for styling web pages. Understanding selectors, properties, values, declarations, rules, and the different types of selectors (class, ID, universal, and descendant) is essential for creating visually appealing and responsive web designs.
 
 ---
