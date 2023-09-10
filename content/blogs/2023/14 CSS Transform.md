@@ -1,8 +1,8 @@
 ---
-title: "Transforming Web Design: A Guide to CSS Transforms"
+title: "Mastering CSS Transforms: Transforming Web Design"
 author: "Maheen Waris"
 description: ""
-url: "/blogs/Guide-to-CSS-Transforms/"
+url: "/blogs/Mastering-CSS-Transforms/"
 date: "2023-09-14"
 tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
 draft: "false"
