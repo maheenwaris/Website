@@ -1,8 +1,8 @@
 ---
-title: "CSS Combinators Unveiled: Harnessing Attribute Selectors"
+title: "Mastering CSS Combinators Unveiled: Harnessing Attribute Selectors"
 author: "Maheen Waris"
 description: ""
-url: "/blogs/CSS-Combinators-Attribute-Selectors/"
+url: "/blogs/Mastering-CSS-Combinators-Attribute-Selectors/"
 date: "2023-09-13"
 tags: ["Development", "CSS", "Styling", "Coding"]
 draft: "false"

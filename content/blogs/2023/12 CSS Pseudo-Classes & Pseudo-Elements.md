@@ -1,8 +1,8 @@
 ---
-title: "CSS Pseudo-Classes and Pseudo-Elements: Adding Interactivity and Style to Your Web Design"
+title: "Mastering CSS Pseudo-Classes and Pseudo-Elements: Adding Interactivity and Style to Your Web Design"
 author: "Maheen Waris"
 description: ""
-url: "/blogs/CSS-Pseudo-Classes-and-Pseudo-Elements"
+url: "/blogs/Mastering-CSS-Pseudo-Classes-and-Pseudo-Elements"
 date: "2023-09-12"
 tags: ["Development", "CSS", "Styling", "Coding"]
 draft: "false"
