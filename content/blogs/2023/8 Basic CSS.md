@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/Beginner's-Guide-to-CSS/"
 date: "2023-09-08"
-tags: [Development", "CSS", "Styling", "Coding", "Guide"]
+tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
 draft: "false"
 toc: "true"
 ---

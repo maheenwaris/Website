@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Pseudo-Classes-and-Pseudo-Elements"
 date: "2023-09-12"
-tags: [Development", "CSS", "Styling", "Coding"]
+tags: ["Development", "CSS", "Styling", "Coding"]
 draft: "false"
 toc: "true"
 ---

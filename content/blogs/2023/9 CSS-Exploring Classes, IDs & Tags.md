@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-for-Styling-HTML-Exploring-Classes-IDs-and-Tags/"
 date: "2023-09-09"
-tags: [Development", "CSS", "Styling", "Coding"]
+tags: ["Development", "CSS", "Styling", "Coding"]
 draft: "false"
 toc: "true"
 ---
