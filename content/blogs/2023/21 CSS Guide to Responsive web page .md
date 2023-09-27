@@ -15,11 +15,11 @@ In today's digital age, ensuring your website looks and works well on various de
 
 Before we begin, let's clarify what responsive web design means. A responsive web page adapts its layout and content to fit the screen it's viewed on. Whether your site is accessed on a large desktop monitor or a tiny smartphone screen, it should look great.
 
-### Step 1: Mobile-First Approach
+### 1: Mobile-First Approach
 
 To create a responsive web page, it's best to start with the smallest screens first, also known as the "mobile-first" approach. By doing this, you ensure that your website's core content is accessible to users on mobile devices.
 
-### Step 2: Fluid Layouts with CSS Grid or Flexbox
+### 2: Fluid Layouts with CSS Grid or Flexbox
 
 CSS Grid and Flexbox are two CSS layout techniques that make it easier to create responsive designs. They allow you to create flexible and dynamic layouts that automatically adjust to different screen sizes. Here's a simple example using CSS Grid:
 
@@ -33,7 +33,7 @@ CSS Grid and Flexbox are two CSS layout techniques that make it easier to create
 
 This code defines a grid that adapts to the available space, making your layout responsive.
 
-### Step 3: Media Queries for Screen Sizes
+### 3: Media Queries for Screen Sizes
 
 Media queries are CSS rules that apply styles based on screen characteristics, such as width. They are the **key to responsive web design**. Here's a basic example:
 
@@ -45,7 +45,7 @@ Media queries are CSS rules that apply styles based on screen characteristics, s
 
 You can use media queries to adjust font sizes, margins, padding, and more to suit different screen sizes.
 
-### Step 4: Responsive Images and Videos
+### 4: Responsive Images and Videos
 
 Images and videos should also adapt to screen size. You can make them responsive by setting a maximum width of 100%:
 
@@ -59,9 +59,11 @@ video {
 
 This ensures that images and videos don't stretch beyond their containers, maintaining a polished appearance.
 
-### Step 5: Testing and Debugging
+### 5: Testing and Debugging
 
 After applying these responsive design techniques with CSS, it's essential to test your web page on various devices and browsers. Use browser developer tools to simulate different screen sizes and identify and fix any issues.
+
+<hr>
 
 #### Conclusion
 
