@@ -3,7 +3,7 @@ title: "Mastering Web Development with W3Schools: Your Ultimate Resource"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/Mastering-with-W3School/"
-date: "2023-09-20"
+date: "2023-09-08"
 tags: ["Development", "CSS", "Styling", "Coding", "Guide", "W3School"]
 draft: "false"
 toc: "true"
