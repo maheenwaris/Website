@@ -3,7 +3,7 @@ title: " CSS Filters to Enhancing Web Design: A Deep Dive into Creative Effects"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Filters/"
-date: "2023-09-20"
+date: "2023-09-28"
 tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
 draft: "false"
 toc: "true"

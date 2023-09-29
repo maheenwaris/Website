@@ -3,7 +3,7 @@ title: "CSS Pseudo-Classes: Unleashing the Power of Selectors"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Pseudo-Classes/"
-date: "2023-09-16"
+date: "2023-09-20"
 tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
 draft: "false"
 toc: "true"

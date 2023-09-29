@@ -3,7 +3,7 @@ title: "CSS Houdini: Unlocking the Magic of Extensible CSS"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Houdini/"
-date: "2023-10-02"
+date: "2023-10-08"
 tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
 draft: "false"
 toc: "true"

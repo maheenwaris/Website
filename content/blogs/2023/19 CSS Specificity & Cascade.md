@@ -3,7 +3,7 @@ title: "CSS Specificity and the Cascade: Understanding the Building Blocks of St
 author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Specificity-and-the-Cascade/"
-date: "2023-09-15"
+date: "2023-09-19"
 tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
 draft: "falsse"
 toc: "true"

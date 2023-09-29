@@ -3,7 +3,7 @@ title: "CSS Position Sticky: Creating Scroll-Responsive Elements"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Position-Sticky/"
-date: "2023-09-22"
+date: "2023-09-27"
 tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
 draft: "false"
 toc: "true"

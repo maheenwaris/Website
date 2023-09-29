@@ -3,7 +3,7 @@ title: "CSS Transforms: A Guide to 2D and 3D Transformations"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Transforms/"
-date: "2023-09-19"
+date: "2023-09-24"
 tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
 draft: "false"
 toc: "true"

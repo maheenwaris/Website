@@ -3,7 +3,7 @@ title: "CSS Blend Modes: Adding a Splash of Creativity to Web Design"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Blend-Modes/"
-date: "2023-09-21"
+date: "2023-10-09"
 tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
 draft: "false"
 toc: "true"
@@ -52,6 +52,8 @@ To apply blend modes in CSS, you can use the `mix-blend-mode` property. For exam
 ```
 
 You can target specific elements or even apply blend modes to entire sections, depending on your design needs.
+
+<hr>
 
 ### Browser Compatibility
 

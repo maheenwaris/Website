@@ -3,7 +3,7 @@ title: "CSS Grid for Responsive Design: Creating Flexible Layouts"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS- Grid-for-Responsive-Design/"
-date: "2023-09-25"
+date: "2023-10-01"
 tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
 draft: "false"
 toc: "true"

@@ -3,7 +3,7 @@ title: "CSS Animation Libraries: Elevating Web Design with Style"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Animation-Libraries/"
-date: "2023-09-30"
+date: "2023-10-03"
 tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
 draft: "false"
 toc: "true"

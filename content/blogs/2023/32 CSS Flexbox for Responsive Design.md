@@ -3,7 +3,7 @@ title: "CSS Flexbox: Unleashing the Power of Responsive Design"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Flexbox-for-Responsive-Design/"
-date: "2023-09-26"
+date: "2023-10-02"
 tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
 draft: "false"
 toc: "true"

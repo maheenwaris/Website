@@ -3,7 +3,7 @@ title: "CSS Variables (Custom Properties): Enhancing Stylesheets with Flexibilit
 author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Variables/"
-date: "2023-09-18"
+date: "2023-09-22"
 tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
 draft: "false"
 toc: "true"

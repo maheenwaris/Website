@@ -3,7 +3,7 @@ title: "CSS in JS: Unleashing the Power of JavaScript for Styling"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-in-JS/"
-date: "2023-09-27"
+date: "2023-10-05"
 tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
 draft: "false"
 toc: "true"
