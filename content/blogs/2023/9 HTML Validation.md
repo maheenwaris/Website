@@ -59,4 +59,12 @@ While HTML validation is essential, it's helpful to be aware of some common erro
 
 HTML validation is a critical step in web development, ensuring that your web pages adhere to standards and are free of errors. It enhances cross-browser compatibility, accessibility, SEO, and the overall quality of your code. By regularly validating your HTML code and addressing any issues that arise, you can create web content that is not only visually appealing but also accessible and functional across a wide range of devices and platforms.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

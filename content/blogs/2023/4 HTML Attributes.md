@@ -90,4 +90,12 @@ In addition to standard HTML attributes, you can create custom attributes for yo
 
 HTML attributes are invaluable tools in web development, allowing developers to customize and enhance the behavior and appearance of HTML elements. By understanding how to use attributes effectively, you can create web pages that are not only visually appealing but also rich in functionality and accessibility. As you continue your journey in web development, you'll discover that HTML attributes, in combination with CSS and JavaScript, offer boundless possibilities for creating dynamic and interactive web experiences.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

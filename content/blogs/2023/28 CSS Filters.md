@@ -56,4 +56,12 @@ CSS filters are widely supported in modern browsers, including Chrome, Firefox, 
 
 In conclusion, CSS filters are a versatile and creative tool for web designers and developers. They allow you to transform the visual aesthetics of your web content with ease, creating engaging and interactive user experiences. By experimenting with CSS filters, you can unlock a world of design possibilities, ensuring that your web projects stand out and leave a lasting impression on your audience.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

@@ -122,4 +122,12 @@ When creating tables, it's essential to ensure they are accessible to all users.
 
 HTML tables are versatile tools for structuring and presenting tabular data on the web. Whether you're creating simple data tables or complex data comparisons, understanding how to create and style tables in HTML is a valuable skill for web developers and content creators. By combining HTML tables with CSS for styling and adhering to accessibility guidelines, you can present data clearly and effectively to your audience, improving the user experience on your website.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

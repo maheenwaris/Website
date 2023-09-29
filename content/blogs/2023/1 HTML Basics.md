@@ -46,6 +46,7 @@ HTML documents are text files with a specific structure that browsers interpret 
 HTML elements are the building blocks of web pages, and each serves a specific purpose. Elements are defined by tags, which consist of an opening tag, content, and a closing tag. Some elements are self-closing, meaning they don't have a closing tag but instead end with a forward slash within the opening tag.
 
 Here are a few common HTML elements:
+
 - `<h1>`, `<h2>`, `<h3>`, `<h4>`, `<h5>`, `<h6>`: Headings of different levels, with `<h1>` being the highest level and `<h6>` the lowest.
 - `<p>`: Represents a paragraph of text.
 - `<a>`: Creates hyperlinks to other web pages or resources.
@@ -62,5 +63,13 @@ These are just a few examples, and HTML offers many more elements for structurin
 ### Conclusion
 
 HTML is the essential language of the web, allowing developers to structure and present content in a standardized way. Understanding HTML's basic structure and elements is a fundamental step in web development. As you delve deeper into web development, you'll learn how to combine HTML with CSS (Cascading Style Sheets) for styling and JavaScript for interactivity, enabling you to create dynamic and visually appealing websites. So, if you're interested in building for the web, mastering HTML is a great place to start.
+
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
 
 ---

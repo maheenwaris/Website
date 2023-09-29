@@ -143,4 +143,12 @@ The collaboration between HTML and CSS offers several advantages in web developm
 
 HTML and CSS are inseparable partners in web development, working together to create visually appealing and well-structured web pages. HTML defines the content and
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

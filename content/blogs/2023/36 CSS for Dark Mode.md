@@ -82,4 +82,12 @@ Test your dark mode implementation on various devices and browsers to ensure con
 
 CSS for dark mode is not just a trend; it's a valuable feature that enhances user experience and accessibility. Implementing dark mode in your web projects using CSS and media queries is a step toward catering to user preferences and providing a more comfortable browsing experience, regardless of the time of day or device in use. By following best practices and making your dark mode design accessible and user-friendly, you can create stylish and functional night themes that leave a positive impression on your users.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

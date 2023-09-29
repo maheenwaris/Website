@@ -69,4 +69,12 @@ After applying these responsive design techniques with CSS, it's essential to te
 
 By following these basic steps, you can create a responsive web page using CSS, making your website accessible and appealing to users across different devices. Remember that responsive web design is all about providing a seamless and enjoyable user experience, and these CSS techniques will help you achieve just that. Happy designing!
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

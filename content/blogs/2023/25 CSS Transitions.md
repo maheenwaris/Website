@@ -120,4 +120,12 @@ In this example:
 This is a basic example, but you can use CSS transitions to create more complex animations and effects by applying transitions to other properties and combining them with other CSS features like transforms and keyframes animations.
 CSS transitions are a simple and effective way to add smooth animations and interactivity to your web designs without the need for complex JavaScript or animation libraries.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

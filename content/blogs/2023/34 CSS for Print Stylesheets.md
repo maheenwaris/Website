@@ -21,9 +21,10 @@ In the digital age, much of our reading happens on screens. However, there are s
 ## Creating CSS Print Stylesheets
 
 Creating a CSS print stylesheet involves specifying rules that dictate how the content should appear when printed. Here are some key considerations and tips:
+
 1. **Link Your Stylesheet**: To create a print stylesheet, include a `<link>` element in your HTML document with the `media` attribute set to `print`. This tells the browser to apply these styles only when printing.
    ```html
-   <link rel="stylesheet" href="print.css" media="print">
+   <link rel="stylesheet" href="print.css" media="print" />
    ```
 2. **Optimize Typography**: Adjust font sizes, line heights, and margins to optimize readability on paper. Consider using serif fonts, as they are generally more readable in print.
 3. **Remove Unnecessary Elements**: Hide or modify elements that are irrelevant or distracting when printed, such as navigation menus, ads, or social media icons.
@@ -47,5 +48,13 @@ Creating a CSS print stylesheet involves specifying rules that dictate how the c
 ### Conclusion
 
 CSS print stylesheets are a valuable tool for web developers and content creators who want to ensure that their content looks just as polished on paper as it does on the screen. By optimizing typography, adjusting colors, and fine-tuning layout, you can create print-friendly versions of your content that enhance readability and maintain your brand's identity. So, the next time you're working on a document intended for print, don't forget to harness the power of CSS to make it shine in the physical world.
+
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
 
 ---

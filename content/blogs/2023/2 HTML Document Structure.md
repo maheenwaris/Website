@@ -69,4 +69,12 @@ HTML elements are the building blocks of a webpage, each serving a specific purp
 
 Understanding the HTML document structure is essential for anyone involved in web development. It forms the basis upon which you create, style, and add interactivity to web pages. As you explore web development further, you'll learn how to manipulate the document structure to create stunning and interactive websites. HTML is the cornerstone of the web, and mastering its structure is the first step toward becoming a proficient web developer.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

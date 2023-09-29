@@ -87,4 +87,12 @@ Learning on FreeCodeCamp isn't a solitary experience. Engaging with the communit
 
 As you embark on your coding journey, remember that FreeCodeCamp is more than a platform – it's a community of learners, mentors, and creators. By signing up and using FreeCodeCamp, you're investing in yourself and your future. So, whether you're a student looking to explore coding or a professional seeking to enhance your skills, FreeCodeCamp is your ally in the world of coding education. Start your journey today and discover the transformative power of coding with FreeCodeCamp.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

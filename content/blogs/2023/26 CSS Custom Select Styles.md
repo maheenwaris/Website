@@ -86,4 +86,12 @@ When implementing CSS custom select styles, it's essential to test your designs 
 
 CSS custom select styles are a valuable tool for web designers seeking to create visually appealing and user-friendly web forms. By customizing the appearance and behavior of select boxes, you can enhance your website's overall design and user experience. Whether you're building a simple contact form or a complex e-commerce site, incorporating custom select styles can elevate the aesthetics and functionality of your web projects, making them more engaging and memorable for users.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

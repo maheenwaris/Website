@@ -65,7 +65,10 @@ Consistent and well-organized code is easier to read and maintain. Use proper in
 For accessibility reasons and better SEO, always include descriptive alternative text (alt text) for images using the `alt` attribute. Alt text provides a text description of the image, which is essential for users with visual impairments and helpful for search engines in understanding the image's content.
 
 ```html
-<img src="example.jpg" alt="A scenic view of a mountain landscape with a lake in the foreground">
+<img
+  src="example.jpg"
+  alt="A scenic view of a mountain landscape with a lake in the foreground"
+/>
 ```
 
 ## 4. Use Valid HTML
@@ -98,13 +101,13 @@ Place JavaScript code and external script references at the end of your HTML doc
 ```html
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Page Title</title>
-</head>
-<body>
-  <!-- Content goes here -->
-  <script src="script.js"></script>
-</body>
+  <head>
+    <title>Page Title</title>
+  </head>
+  <body>
+    <!-- Content goes here -->
+    <script src="script.js"></script>
+  </body>
 </html>
 ```
 
@@ -122,12 +125,19 @@ When embedding video and audio elements, provide fallback content for browsers t
 
 ```html
 <video controls>
-  <source src="video.mp4" type="video/mp4">
+  <source src="video.mp4" type="video/mp4" />
   <p>Your browser does not support the video tag.</p>
 </video>
 ```
 
 By following these HTML best practices, you can create web content that is not only visually appealing but also accessible, maintainable, and compatible with a wide range of browsers and devices. Clean and well-structured HTML code forms the foundation for a successful web project, ensuring a positive user experience and efficient development workflow.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
 
 ---

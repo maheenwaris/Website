@@ -111,4 +111,12 @@ CSS Flexbox has revolutionized the way web developers approach layout design, ma
 
 As web development continues to evolve, Flexbox remains a valuable tool in the arsenal of responsive design techniques. So, embrace the power of Flexbox and elevate your web design skills to create visually appealing and user-friendly websites for today's diverse digital landscape.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

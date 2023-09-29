@@ -65,4 +65,12 @@ Now, let's take a look at some popular CSS animation libraries that have gained 
 
 CSS animation libraries are indispensable tools for modern web development, allowing designers and developers to craft visually captivating and user-friendly websites with ease. They offer a shortcut to creating animations that are efficient, cross-browser compatible, and responsive. By incorporating popular libraries like Animate.css, Hover.css, or GSAP into your projects, you can elevate your web design and create memorable user experiences that leave a lasting impression. So, the next time you embark on a web development journey, consider harnessing the power of CSS animation libraries to take your websites to the next level of style and interactivity.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

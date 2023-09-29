@@ -116,4 +116,12 @@ With this CSS, when a user hovers over a link, a red underline appears beneath i
 
 CSS pseudo-elements are a powerful tool in a web developer's arsenal. They enable the creation of dynamic and visually appealing designs without the need for additional HTML markup or complex JavaScript. By mastering pseudo-elements like `::before`, `::after`, `::first-line`, and `::first-letter`, you can take your web design skills to the next level, creating stunning and interactive web experiences for your users. So, don't hesitate to experiment and explore the creative possibilities that CSS pseudo-elements offer in your web projects.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

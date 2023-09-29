@@ -69,4 +69,12 @@ While CSS Houdini is a promising technology, its adoption is still in progress. 
 
 CSS Houdini is poised to revolutionize web design and development by giving developers unprecedented control over CSS rendering and layout. With the ability to create custom paint effects, layout models, and animations, developers can push the boundaries of what's possible in web design. While CSS Houdini is not yet widely supported, it's an exciting development that promises to unlock new creative possibilities and enhance the capabilities of CSS. As it continues to evolve and gain broader browser support, CSS Houdini will undoubtedly play a significant role in the future of web development.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

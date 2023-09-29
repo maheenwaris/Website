@@ -63,4 +63,12 @@ CSS specificity and the cascade are fundamental concepts that underpin the way s
 
 By understanding how specificity works and respecting the cascade, you can avoid style conflicts and build a solid foundation for creating beautiful and responsive web designs. So, the next time you dive into CSS, remember that it's not just about choosing colors and fonts; it's about mastering the art of specificity and the cascade.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

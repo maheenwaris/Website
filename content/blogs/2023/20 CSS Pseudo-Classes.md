@@ -129,4 +129,12 @@ li:last-child {
 
 CSS pseudo-classes are invaluable tools for web developers and designers, enabling the creation of interactive and responsive web designs with ease. By pseudo-classes, you can target specific elements based on user interactions and document structure, resulting in a more engaging and user-friendly web experience. Whether you're styling links, form inputs, or lists, understanding and using pseudo-classes will take your CSS skills to the next level and elevate the quality of your web projects.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

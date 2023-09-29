@@ -118,4 +118,12 @@ CSS transforms are well-supported in modern web browsers, including Chrome, Fire
 
 In conclusion, CSS transforms are a powerful tool in a web developer's arsenal for creating visually engaging and interactive web designs. Whether you're working with 2D or 3D transformations, mastering these CSS properties opens up a world of creative possibilities for enhancing user experiences on the web. Experiment with different transform combinations, and you'll be on your way to crafting captivating web content that stands out from the crowd.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

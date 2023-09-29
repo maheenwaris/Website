@@ -79,4 +79,12 @@ CSS variables have excellent browser support, with modern browsers like Chrome, 
 
 CSS variables, also known as custom properties, are a valuable addition to the web developer's toolkit. They provide a means of creating maintainable, reusable, and dynamic stylesheets that improve code readability and enhance the user experience. By centralizing values and promoting consistency, CSS variables help developers create more efficient and adaptable web designs. Whether you're working on a small personal project or a large-scale web application, consider incorporating CSS variables into your stylesheet to streamline your development process and deliver more robust, responsive designs.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

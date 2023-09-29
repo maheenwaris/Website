@@ -44,4 +44,12 @@ To create more accessible web experiences with CSS, consider these best practice
 
 Web accessibility is a critical aspect of modern web development. CSS, as a powerful styling technology, plays a pivotal role in making the web a more inclusive space for all users. By following best practices, prioritizing semantic HTML, and understanding the impact of CSS on accessibility, developers can create digital experiences that empower and serve a diverse audience, ensuring that nobody is left behind in the online world.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

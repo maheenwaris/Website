@@ -65,4 +65,12 @@ It's worth noting that while CSS blend modes are a powerful tool, they may not b
 
 CSS blend modes are a fantastic addition to the toolkit of any web designer. They offer a versatile way to create visually stunning effects, adding depth, interactivity, and creativity to web design projects. By mastering the various blend modes and experimenting with their applications, designers can take their websites to the next level, captivating audiences and leaving a lasting impression. Embrace the world of CSS blend modes, and watch your web designs come to life like never before.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

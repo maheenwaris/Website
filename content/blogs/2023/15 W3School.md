@@ -89,4 +89,12 @@ W3Schools covers a broad spectrum of web technologies and languages, making it a
 
 W3Schools is an invaluable resource for web developers at all levels of expertise. Whether you're just starting your web development journey or looking to expand your skills, you'll find a wealth of tutorials, references, and interactive learning tools that can help you achieve your goals. Its commitment to providing accurate and up-to-date content, coupled with its accessibility and interactive features, make W3Schools a go-to destination for anyone passionate about web development. So, don't hesitate to explore this treasure trove of web development knowledge and start building your web development skills today. Happy coding!
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

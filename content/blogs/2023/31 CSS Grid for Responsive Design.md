@@ -104,4 +104,12 @@ In this example, we modify the column width and layout when the screen width is 
 
 CSS Grid has transformed the way web developers approach responsive web design. Its simplicity and flexibility make it an invaluable tool for creating layouts that adapt seamlessly to various screen sizes and orientations. By mastering CSS Grid, web designers and developers can deliver visually appealing and user-friendly websites that excel in the ever-evolving landscape of digital devices and displays.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

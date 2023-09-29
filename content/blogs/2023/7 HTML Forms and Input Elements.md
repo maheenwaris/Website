@@ -131,4 +131,12 @@ By linking this CSS to your HTML document, you can achieve a visually appealing 
 
 Forms and input elements are powerful tools for creating interactive web experiences and collecting data from users. Whether you're designing a simple contact form or a complex registration system, understanding how to create and customize forms in HTML is essential for web developers. By combining HTML forms with CSS for styling and JavaScript for dynamic functionality, you can build web applications that engage users, collect data, and provide valuable services on the internet.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

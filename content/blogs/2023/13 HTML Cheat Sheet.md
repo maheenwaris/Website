@@ -128,4 +128,12 @@ HTML (Hypertext Markup Language) is the backbone of web development, serving as 
 
 This HTML cheat sheet provides a quick reference for common HTML elements and syntax. Bookmark it or print it out for easy access as you work on web development projects. Remember that HTML is just the beginning; as you delve deeper into web development, you'll explore CSS and JavaScript to create dynamic and visually appealing websites. Happy coding!
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

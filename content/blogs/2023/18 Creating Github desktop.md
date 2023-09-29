@@ -85,4 +85,12 @@ GitHub Desktop is available for both Windows and macOS, ensuring that users on d
 
 GitHub Desktop simplifies the process of working with GitHub repositories, making it accessible to developers of all levels. Its visual interface, streamlined workflow, and collaboration features make it an invaluable tool for managing code and projects. Whether you're a beginner or an experienced developer, GitHub Desktop can enhance your GitHub experience and help you focus on what you do best: coding and collaborating.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

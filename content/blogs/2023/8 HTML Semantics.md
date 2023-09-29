@@ -64,4 +64,12 @@ By using these elements appropriately, you create a clearer document structure t
 
 HTML semantics is a cornerstone of modern web development. It's not just about aesthetics; it's about making web content understandable, accessible, and future-proof. By using semantic HTML elements and adhering to best practices, you create web pages that are not only visually appealing but also more usable and inclusive for all users. Embracing semantics is not just a best practice; it's a commitment to creating a better web for everyone.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

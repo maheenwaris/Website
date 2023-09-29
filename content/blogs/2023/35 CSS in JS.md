@@ -46,4 +46,12 @@ While CSS-in-JS libraries offer numerous advantages, they may not be the best ch
 
 CSS-in-JS libraries have redefined the way we approach styling in web development. They offer benefits like improved isolation, dynamic theming, and optimized performance, making them a compelling choice for modern web applications. While they come with a learning curve and some challenges, the advantages they offer in terms of maintainability and developer experience are worth exploring. Whether you choose styled-components, Emotion, JSS, or another library, incorporating CSS-in-JS into your project can lead to more efficient and responsive web applications.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

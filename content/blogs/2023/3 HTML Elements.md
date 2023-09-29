@@ -127,4 +127,12 @@ In addition to the basic elements, HTML5 introduced a set of semantic elements t
 
 HTML elements are the building blocks that empower web developers to create structured and meaningful content on the internet. Understanding how to use these elements and their attributes is fundamental to web development. As you dive deeper into HTML and web development, you'll learn how to combine these elements, apply CSS for styling, and leverage JavaScript for interactivity, ultimately creating dynamic and engaging web experiences. HTML is the language that brings the web to life, and mastering its elements is your first step toward becoming a proficient web developer.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

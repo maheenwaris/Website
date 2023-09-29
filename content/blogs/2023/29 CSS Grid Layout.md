@@ -117,4 +117,12 @@ CSS Grid Layout enjoys strong support in modern web browsers, making it a powerf
 
 CSS Grid Layout is a game-changer in the world of web design, providing developers and designers with a robust, two-dimensional layout system that simplifies the creation of complex web layouts. By mastering the core concepts and properties of Grid, you can elevate your web design skills and bring your creative visions to life. Whether you're designing a magazine-style page, a responsive portfolio, or a flexible dashboard, CSS Grid Layout is an indispensable tool for crafting seamless and visually stunning web designs.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

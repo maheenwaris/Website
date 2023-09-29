@@ -95,4 +95,12 @@ While `position: sticky` is a powerful tool, it's important to be aware of its b
 
 `position: sticky` is a valuable CSS property that empowers web designers to create scroll-responsive elements that enhance user experience and improve website navigation. Whether you're designing sticky headers, menus, or other interactive elements, this property allows you to blend the best aspects of relative and fixed positioning seamlessly. By understanding how to use `position: sticky` effectively, you can take your web design projects to the next level, making them more engaging and user-friendly.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

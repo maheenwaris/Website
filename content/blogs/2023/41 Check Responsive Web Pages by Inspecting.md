@@ -45,4 +45,12 @@ If you notice any issues with the layout or functionality during your inspection
 
 Using Google Chrome's DevTools and the device toolbar, you can easily check the responsiveness of your web pages across various devices and screen sizes. This powerful toolset empowers web developers to identify and address any issues related to responsive design, ensuring that your website provides an exceptional user experience for visitors on all devices. Make it a routine practice to inspect and test your web pages with DevTools to deliver top-notch responsiveness.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

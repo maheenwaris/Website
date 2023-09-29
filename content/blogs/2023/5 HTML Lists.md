@@ -9,7 +9,6 @@ draft: "false"
 toc: "true"
 ---
 
-
 Lists play a fundamental role in structuring content on the web. They are used to organize information, create easy-to-read content, and provide a logical flow to your web pages. In HTML, you have several options for creating lists: unordered lists (`<ul>`), ordered lists (`<ol>`), and definition lists (`<dl>`). In this article, we will explore the different types of lists in HTML, how to create them, and their various use cases.
 
 ## Unordered Lists (`<ul>`): Bullet Points for Clarity
@@ -100,5 +99,13 @@ Nesting lists allows you to create structured and visually organized content for
 ### Conclusion
 
 Lists are essential tools for web developers and content creators, enabling them to structure information in a clear and user-friendly way. By mastering unordered lists, ordered lists, and definition lists in HTML, you can enhance the readability and organization of your web content. Whether you're creating a simple list of bullet points or organizing a glossary of terms and definitions, HTML lists are versatile and invaluable components in the toolkit of web development.
+
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
 
 ---

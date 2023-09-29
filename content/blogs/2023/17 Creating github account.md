@@ -100,4 +100,12 @@ Congratulations! Your code is now on GitHub.
 
 Remember, this guide covers the basic steps to get you started with GitHub. There's a lot more you can explore, like collaborating with others, creating branches, and managing issues. GitHub has a helpful guides section (https://guides.github.com/) that can provide more in-depth information as you continue your coding journey. Happy coding!
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---

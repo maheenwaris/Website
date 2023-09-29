@@ -113,4 +113,12 @@ input[type="text"] {
 
 Attribute selectors are powerful and flexible, allowing you to target and style elements based on their attributes and attribute values.
 
+<script src="https://utteranc.es/client.js"
+        repo="maheenwaris/Website"
+        issue-term="pathname"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+
 ---
