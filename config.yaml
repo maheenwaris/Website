@@ -4,7 +4,7 @@ title: "Maheen Waris"
 theme: hugo-profile
 
 canonifyURLs: true
-
+paginate: 15
 outputs:
   home:
     - "HTML"
