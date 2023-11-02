@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-for-Dark-Mode/"
 date: "2023-10-06"
-tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
+tags: ["CSS"]
 draft: "false"
 toc: "true"
 ---

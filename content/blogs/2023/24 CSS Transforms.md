@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Transforms/"
 date: "2023-09-24"
-tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
+tags: ["CSS"]
 draft: "false"
 toc: "true"
 ---

@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/HTML-Elements/"
 date: "2023-09-03"
-tags: ["Development", "HTML", "Coding", "Guide"]
+tags: ["HTML"]
 draft: "false"
 toc: "true"
 ---

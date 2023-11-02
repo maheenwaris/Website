@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Animation-Libraries/"
 date: "2023-10-03"
-tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
+tags: ["CSS"]
 draft: "false"
 toc: "true"
 ---

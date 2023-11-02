@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Pseudo-elements/"
 date: "2023-09-21"
-tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
+tags: ["CSS"]
 draft: "false"
 toc: "true"
 ---

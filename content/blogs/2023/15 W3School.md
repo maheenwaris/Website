@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/Mastering-with-W3School/"
 date: "2023-09-15"
-tags: ["Development", "CSS", "Styling", "Coding", "Guide", "W3School"]
+tags: ["W3School", "Guide"]
 draft: "false"
 toc: "true"
 ---

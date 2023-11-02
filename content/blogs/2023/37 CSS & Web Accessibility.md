@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-and-Web-Accessibility/"
 date: "2023-10-07"
-tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
+tags: ["CSS"]
 draft: "false"
 toc: "true"
 ---

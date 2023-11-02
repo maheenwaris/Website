@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/Mastering-CSS-Grid-Layout/"
 date: "2023-09-29"
-tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
+tags: ["CSS"]
 draft: "false"
 toc: "true"
 ---

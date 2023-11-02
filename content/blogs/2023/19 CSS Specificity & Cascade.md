@@ -4,8 +4,8 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Specificity-and-the-Cascade/"
 date: "2023-09-19"
-tags: ["Development", "CSS", "Styling", "Coding", "Guide"]
-draft: "falsse"
+tags: ["CSS"]
+draft: "false"
 toc: "true"
 ---
 

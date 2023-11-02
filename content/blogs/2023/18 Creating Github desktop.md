@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/Github-Desktop/"
 date: "2023-09-18"
-tags: ["Development", "HTML", "Coding", "Github desktop"]
+tags: ["Github desktop" , "Guide"]
 draft: "false"
 toc: "true"
 ---

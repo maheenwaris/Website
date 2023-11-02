@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/HTML-Forms-and-Input-Elements/"
 date: "2023-09-07"
-tags: ["Development", "HTML", "Coding", "Guide"]
+tags: ["HTML"]
 draft: "false"
 toc: "true"
 ---

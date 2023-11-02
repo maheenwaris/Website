@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/FreeCodeCamp/"
 date: "2023-09-16"
-tags: ["Development", "HTML", "Coding", "FreeCodeCamp", "Online platform"]
+tags: ["FreeCodeCamp" , "Guide"]
 draft: "false"
 toc: "true"
 ---

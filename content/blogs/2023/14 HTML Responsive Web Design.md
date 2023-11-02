@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/HTML-Responsive-Web-Design"
 date: "2023-09-14"
-tags: ["Development", "HTML", "Coding", "Guide", "Responsive"]
+tags: ["HTML"]
 draft: "false"
 toc: "true"
 ---

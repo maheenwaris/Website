@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/beginner's-guide-to-responsive-web-page/"
 date: "2023-10-10"
-tags: ["Development", "CSS", "Styling", "Coding", "Guide", "Responsive"]
+tags: ["CSS","Responsive"]
 draft: "false"
 toc: "true"
 ---

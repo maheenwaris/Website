@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/GitHub-Account/"
 date: "2023-09-17"
-tags: ["Development", "HTML", "Coding", "Github"]
+tags: ["Github", "Guide"]
 draft: "false"
 toc: "true"
 ---

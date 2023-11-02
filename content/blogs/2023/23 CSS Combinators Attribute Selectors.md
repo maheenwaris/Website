@@ -4,7 +4,7 @@ author: "Maheen Waris"
 description: ""
 url: "/blogs/CSS-Combinators-Attribute-Selectors/"
 date: "2023-09-23"
-tags: ["Development", "CSS", "Styling", "Coding"]
+tags: ["CSS"]
 draft: "false"
 toc: "true"
 ---
