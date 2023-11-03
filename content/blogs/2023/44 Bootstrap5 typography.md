@@ -2,7 +2,7 @@
 title: "Working with Typography: Making Your Headings Stylish with Bootstrap"
 author: "Maheen Waris"
 description: ""
-url: "/blogs/Typography-in-bootstrap/"
+url: "/blogs/Bootstrap-typography/"
 date: "2023-10-14"
 tags: [Bootstrap5]
 draft: "false"
