@@ -142,14 +142,16 @@ params:
     content: |-
       I am a seasoned professional in frontend web development, boasting a wealth of experience in crafting visually appealing and user-friendly websites. My passion for technology extends beyond the frontend, as I am actively engaged in expanding my skill set in the realms of cybersecurity and Linux. This dual focus not only allows me to create captivating web interfaces but also ensures the security and stability of the digital environments I work on.
 
-    # skills:
-    #   enable: true
-    #   title: "My toolkit includes:"
-    #   items:
-    #     - "🖌️ HTML"
-    #     - "🎨 CSS"
-    #     - "✨ JavaScript"
-    #     - "🅱 Bootstrap"
+    skills:
+      enable: true
+      title: "My Experties includes:"
+      items:
+        - "HTML"
+        - "CSS"
+        - "JavaScript"
+        - "Bootstrap"
+        - "Hugo"
+        - "Responsive"
 
   # Experience
   experience:
