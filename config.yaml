@@ -152,7 +152,7 @@ params:
         - "Bootstrap"
         - "Hugo"
         - "Responsive"
-
+        
   # Experience
   experience:
     enable: true
