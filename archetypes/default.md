@@ -1,16 +1,12 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-description: 
-date: "{{ dateFormat "2006-01-02" .Date }}"
-type: "post"
-draft: "false"
-showTableOfContents: true
-categories:
-  - Linux
-  - Windows
-  - Android
-tags:
-  - GitHub
+author: "Maheen Waris"
+description: ""
+url: "/blogs/{{ .Name }}/"
+date: "2023-"
+tags: []
+draft: "true"
+toc: "true"
 ---
 
 
@@ -22,3 +18,4 @@ tags:
         crossorigin="anonymous"
         async>
 </script>
+---
