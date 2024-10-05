@@ -28,7 +28,7 @@ Menus:
       title: Blog posts
       url: /blogs
       weight: 1
-    #Dropdown menu
+    # Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
     #   name: Dropdown
@@ -114,25 +114,28 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Maheen Waris"
-    subtitle: "Being a tech enthusiast, exploring the latest advancements in the digital world."
-    content: "I'm a skilled frontend developer who transforms ideas into stunning digital realities. With a passion for crafting seamless user experiences, I'm here to bring your web projects to life!"
+    subtitle: "I’m a passionate coder and developer, crafting elegant solutions."
+    content: "I’m a passionate frontend developer dedicated to building my career by transforming ideas into engaging web experiences. With a focus on creating visually stunning and user-friendly designs, I aim to deliver impactful solutions while continuously honing my craft."
     image: /Home/Header.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
-    # button:
-    #   enable: true
-    #   name: "Resume"
-    #   url: "#"
-    #   download: true
-    #   newPage: false
+    button:
+      enable: true
+      name: "Resume"
+      url: "/resume/Resume.pdf"
+      download: true
+      newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/maheenwaris
 
         - icon: fab fa-linkedin
-          url: https://www.linkedin.com/in/maheenwaris/
+          url: https://www.linkedin.com/in/maheenwaris
+
+        - icon: fab fa-tryhackme
+          url: https://tryhackme.com/p/maheenwaris
 
   # About
   about:
@@ -140,18 +143,18 @@ params:
     title: "About Me"
     image: "/Home/Header.png"
     content: |-
-      I am a seasoned professional in frontend web development, boasting a wealth of experience in crafting visually appealing and user-friendly websites. My passion for technology extends beyond the frontend, as I am actively engaged in expanding my skill set in the realms of cybersecurity and Linux. This dual focus not only allows me to create captivating web interfaces but also ensures the security and stability of the digital environments I work on.
-
+      Motivated IT professional with a solid foundation in Web Development, Responsive Web Design, and Front-End Development. I am currently enhancing my skills by learning the MERN stack to stay up-to-date with industry trends. I aim to leverage my expertise to contribute to a dynamic organization that values innovation and collaboration. With a strong work ethic, integrity, and a commitment to continuous growth, I am dedicated to achieving outstanding results.
     skills:
       enable: true
       title: "My Experties includes:"
       items:
         - "HTML"
         - "CSS"
-        - "JavaScript"
+        - "Tailwind CSS"
         - "Bootstrap"
-        - "Hugo"
-        - "Responsive"
+        - "JavaScript"
+        - "Hugo development"
+        - "Responsive sites"
         
   # Experience
   experience:
@@ -182,6 +185,9 @@ params:
           url: "https://ric.edu.pk/"
         date: "November 2023 - Present"
         content: |-
+          - Engaging in comprehensive IT management coursework to expand technical expertise.
+          - Pursuing a degree to unlock career paths and opportunities in the IT field.
+
 
       - title: "NDG Linux Essentials"
         school:
@@ -189,11 +195,9 @@ params:
           url: "https://www.netacad.com/"
         date: "August 2023"
         content: |-
-          - I take immense pride in successfully completing the NDG Linux Essentials course. It represents a significant milestone in my learning journey.
-          - With the course completion comes the Linux Essentials certification, a tangible testament to my dedication and the new skills I've acquired. 
-          - Having finished this course, I now possess a solid foundation in Linux, enabling me to confidently navigate and utilize this operating system.
-          - Armed with this certification, I am well-prepared to take on new challenges in the IT field. It has expanded my career opportunities and prospects.
-          - This accomplishment signifies my commitment to continuous learning and growth. I am excited to apply my Linux knowledge in practical settings and further advance my expertise in the future.
+          - Successfully completed the NDG Linux Essentials course, earning certification and building a strong Linux foundation.
+          - Equipped to confidently navigate the Linux OS and tackle new IT challenges, expanding career prospects.
+          - Committed to continuous learning, eager to apply and enhance Linux skills in practical settings.
 
       - title: "Cyber Security"
         school:
@@ -211,11 +215,9 @@ params:
           url: "http://www.corvitfsd.com/"
         date: "May 2023 - September 2023"
         content: |-
-          - Proficient in Linux operating system, with a strong understanding of its commands and functionalities.
-          - Skilled in conducting network vulnerability scans, identifying potential weaknesses and security gaps.
-          - Experienced in using various tools such as Nmap, Cupp, and IP Advancer to enhance network security and perform advanced network analysis.
-          - Continuously learning and staying updated with the latest tools and techniques in the field of network security and vulnerability assessment.
-          - Proficiency in Linux, combined with a knack for identifying vulnerabilities and using specialized tools, allows me to proactively address security concerns. I'm adept at not only recognizing issues but also implementing effective solutions to fortify network security and minimize risks.
+          - Proficient in Linux, using commands and tools for network analysis and vulnerability assessments.
+          - Skilled in performing vulnerability scans with tools like Nmap, Cupp, and IP Advancer to strengthen security.
+          - Continuously learning new techniques to identify weaknesses and implement proactive security solutions.
 
       - title: "Web Development"
         school:
@@ -223,13 +225,9 @@ params:
           url: "https://career.edu.pk/"
         date: "March 2022 - September 2022"
         content: |-
-          - I've successfully completed a variety of projects, including:
-          - created custom forms to collect data efficiently.
-          - designed captivating digital portfolios for individuals and businesses.
-          - crafted user-friendly websites for showcasing properties.
-          - developed professional websites for various industries.
-          - built interactive platforms for seamless learning.
-          - designed inviting sites for dining and takeout.
+          - Developed custom forms to streamline data collection, enhancing my skills in user-friendly design.
+          - Designed engaging digital portfolios for assigments, improving my visual design and branding abilities.
+          - Created intuitive websites for diverse industries, deepening my knowledge of responsive design and web technologies.
 
   #Contact
   contact:
