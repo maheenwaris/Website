@@ -3,7 +3,7 @@ title: "Hugo’s New Build Tools for Faster Static Site Development"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/Hugo-New-Tools-for-Faster-SSd/"
-date: "2024-10-07"
+date: "2024-10-06"
 tags: ["Hugo"]
 draft: "false"
 toc: "true"

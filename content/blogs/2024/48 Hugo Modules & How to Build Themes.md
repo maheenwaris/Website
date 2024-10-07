@@ -3,7 +3,7 @@ title: "Hugo Modules Explained: Simplifying How to Build Themes"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/Hugo-Modules-Explained-How-to-Build-Themes/"
-date: "2024-10-10"
+date: "2024-10-07"
 tags: ["Hugo"]
 draft: "false"
 toc: "true"

@@ -3,7 +3,7 @@ title: "How to Build a Super-Fast Blog with Hugo and Jamstack"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/Build-Fast-Blog-with-Hugo-and-Jamstack/"
-date: "2024-10-15"
+date: "2024-10-09"
 tags: ["Hugo", "Jamstack", "Blogs"]
 draft: "false"
 toc: "true"

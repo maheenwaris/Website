@@ -3,7 +3,7 @@ title: "SEO Optimization in Hugo: Boosting Your Site’s Visibility in 2024"
 author: "Maheen Waris"
 description: ""
 url: "/blogs/seo-optimization-in-hugo/"
-date: "2024-10-12"
+date: "2024-10-08"
 tags: ["Hugo", "SEO"]
 draft: "false"
 toc: "true"
