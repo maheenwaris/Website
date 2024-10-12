@@ -1,8 +1,8 @@
 ---
-title: "A Beginner's Guide to Responsive Web Page: By Using CSS"
+title: "A Beginners Guide to Responsive Web Page: By Using CSS"
 author: "Maheen Waris"
 description: ""
-url: "/blogs/beginner's-guide-to-responsive-web-page/"
+url: "/blogs/beginners-guide-to-responsive-web-page/"
 date: "2023-10-10"
 tags: ["CSS","Responsive"]
 draft: "false"

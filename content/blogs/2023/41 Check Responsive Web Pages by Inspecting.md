@@ -2,7 +2,7 @@
 title: "How to Check Responsive Web Pages by Inspecting: A Guide for Web Developers"
 author: "Maheen Waris"
 description: ""
-url: "/blogs/beginner's-guide-to-check-responsive-web-page/"
+url: "/blogs/beginners-guide-to-check-responsive-web-page/"
 date: "2023-10-11"
 tags: ["Responsive"]
 draft: "false"
