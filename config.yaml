@@ -111,7 +111,7 @@ params:
 
     taxonomies:
       tags: "tags"
-      # category: ""
+      category: "categories"
  
   # Hero
   hero:
