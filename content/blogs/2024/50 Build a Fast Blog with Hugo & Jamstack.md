@@ -1,7 +1,7 @@
 ---
 title: "How to Build a Super-Fast Blog with Hugo and Jamstack"
 author: "Maheen Waris"
-description: ""
+description: "Learn how to create a lightning-fast blog using **Hugo** and **Jamstack** with easy steps for setup, speed optimization, and deployment."
 url: "/blogs/Build-Fast-Blog-with-Hugo-and-Jamstack/"
 date: "2024-10-09"
 tags: ["Hugo", "Jamstack", "Blogs"]
