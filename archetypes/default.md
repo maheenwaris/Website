@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 author: "Maheen Waris"
 url: "/blogs/{{ .Name }}/"
-date: "2023-"
+date: "2024-"
 tags: []
 draft: "true"
 toc: "true"
