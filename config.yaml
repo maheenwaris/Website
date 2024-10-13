@@ -110,8 +110,9 @@ params:
       disableContact: false
 
     taxonomies:
-      tags: tags
-
+      tags: "tags"
+      category: ""
+ 
   # Hero
   hero:
     enable: true
