@@ -1,20 +1,10 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 author: "Maheen Waris"
+description: ""
 url: "/blogs/{{ .Name }}/"
-date: "2024-"
+date: "{{ .Date }}"
 tags: []
-draft: "true"
-toc: "true"
----
-
-
-
-<script src="https://utteranc.es/client.js"
-        repo="maheenwaris/Website"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
+draft: true
+toc: true
 ---
