@@ -3,7 +3,7 @@ title: "Programming is easy with Deno Land"
 author: "Maheen Waris"
 url: "/blogs/programming-with-deno-land/"
 date: "2024-10-10"
-tags: ["programming", "deno land" , ]
+tags: ["Programming", "Deno Land" ]
 draft: "false"
 toc: "true"
 ---

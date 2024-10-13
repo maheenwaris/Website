@@ -109,10 +109,6 @@ params:
       disableAchievements: false
       disableContact: false
 
-    taxonomies:
-      tags: "tags"
-      category: "categories"
- 
   # Hero
   hero:
     enable: true
@@ -265,3 +261,7 @@ params:
     article: "Jan 2, 2006"
     articleList: "Jan 2, 2006"
     articleRecent: "Jan 2, 2006"
+
+taxonomies:
+  tag: "tags"
+  category: ""

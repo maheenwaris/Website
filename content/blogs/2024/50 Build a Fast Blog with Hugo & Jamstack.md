@@ -5,7 +5,6 @@ description: ""
 url: "/blogs/Build-Fast-Blog-with-Hugo-and-Jamstack/"
 date: "2024-10-09"
 tags: ["Hugo", "Jamstack", "Blogs"]
-categories: []
 draft: "false"
 toc: "true"
 ---
