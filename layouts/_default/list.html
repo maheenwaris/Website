@@ -11,8 +11,7 @@
 <div class="container pt-5" id="list-page">
     <h2 class="text-center pb-2">{{.Title}}</h2>
     <div class="row">
-        {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
-        {{ range $paginator.Pages }}
+        {{ range .Paginator.Pages }}
         <div class="col-lg-4 col-md-6 my-5">
             <div class="card-columns">
                 <div class="card h-100">
