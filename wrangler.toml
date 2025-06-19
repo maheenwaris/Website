@@ -1,6 +1,6 @@
 name = "website"
-compatibility_date = "2025-06-15
 type = "javascript"
+compatibility_date = "2025-06-15
 
 [assets]
 directory = "./public"
